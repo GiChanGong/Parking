@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "centering-talon-426107-r3",
+  "private_key_id": "72b95e1d0a7831d1b9604a6b26af0ccf884d8c4c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDtDRFcP4+/aFcq\ne2dq9y1Nc+RIvrs4JX5RHOCxSZdKwfdrKzLKimjrGRzISH5NfuD/ui8cF+sNAeUk\njyidJetfZ+XDoWX4CL5lCnXPPOrp3EPggn2yAdSX4PZLB6EhDtHRZdwcuBX+3Awc\n9Lh491yxUq46+ryJ59/gXp4OdWn+rQwrQRwQTXSmDQdLGsx9dTCd4nC4n5vtzFpn\nqkDAaor8+8KtZhWSexPAnV/wTFqc7HFEaZruBSlqL/6nBVWyEkAXHPzl57rm59Yg\nY6WmMOHVKI96RCod7yA15WIC04voLbYPpoUyyvrLzxnzSIpdTZbozEoWSiJY16f1\nd3ATW2vfAgMBAAECggEAQqzNyL4iDwrolYzfQlFi3ymtOJ7ZJwo4tNTkCEm0MbVM\nA8tDPn/e0d2e4GCvkdmRrKwwKv05Qk/ZpUZU/JqZURz2nedsOG8xKldeWpt+UagA\nOYpKk4J7SvreG616L0OtVXIKjtNicGxxRcW5i2C8JC4mznUPCdT7/e5vE48H8Lcu\nI1mNmORTI6NR8Nquf+vAp8YSrau54hQXAI6vbysLG9InnuyU/DkufKFyT6k1YmGg\nXZ6jYL9USmJy8b2vmAE0+jPcspmHPP+04Tl+HjxS6Yx2MHMwkL3Bo+BZxoQz7Nht\n+z7IiHM/DHwgnqU3rRE/PaYspvUHrcnaOCVecUpHAQKBgQD4E1wn6vmOhR7eauGu\njbvHi9Fwq1XJdfF1e8G1+CUXs+Uv3YGWxt8389mxpDsuUFRMS5fvYzRXZtoMA5/M\nOJxKOuve5YsnPivJSE7Em3YDM+U1ZmKHFlNexdsVVzjn2Afugs0rJNxqW+yZR+02\nfzFnMd4ehV4+qvEeypsHTnnjAQKBgQD0n43kXr2ll72bYo0T0VkleLbwUhUsQx+k\n+vBziUbXmwlDS+9pjoVtTC21LxjRT/Kz/BNdvNfuLKfKbjm8wJqFKYcwHleX5P6L\n4+bdOf9srPqqvvWdOcCtiN8l6xssQnjNjBo0KI7LUytdAHaT71FvSYfcoFIILckX\n+atXsuSu3wKBgAl2k5liOUragSby5NEHzxX5m2+02Xzp5uAYbHdIlAGndyKwTHU3\n+OPlhXRlU2yc29pdN9qF6kU7Qy4aJUphDnU2cjD6iKhiksEG5RpS49mTbTbwROnq\nTBvdaFIUFbOiZgsPKkxvB4l3IDtopv/hMj1BhbucUtAJLVGDYQ6SS8wBAoGBAMgf\ni+Zrd3z0MaLgMggneWXFZuweSsIGO+otfO8YPEOAy0gp5DgX56It8yrJ1+TNIgIK\n1BEYwBJSqAZcvJFlhEQyYC2GdSSHq5LoJGOR4huXPA7Z4Hf62l1dnykXOQixbMDD\nwGAxWfiPFuejzF5kJ9wCbMqaweF9C4m4sGszqBBDAoGBAISk/S2n+17G2+2FTyGM\n1YElBo3gNVVF2PllasSqje25shG8poxo3AmoBEkVI0FRP1XQ++aOBqXN01Si8GbP\n1cW+nzQy/df3iMjIgyAGWsgxbCz0JtXtLjmV9MPXlDFbVuLnLUdqT9g2vHKAjRZI\nhD/UTI0LAcbcVoJ9Ka/rAMfh\n-----END PRIVATE KEY-----\n",
+  "client_email": "esp01-950@centering-talon-426107-r3.iam.gserviceaccount.com",
+  "client_id": "101058825977682741971",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/esp01-950%40centering-talon-426107-r3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
