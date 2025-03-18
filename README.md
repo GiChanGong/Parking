@@ -1,5 +1,5 @@
 # Parking
-Parking system with esp01 &amp; marlin firmware
+Parking system with esp01 & marlin firmware
 
 esp to google spreadsheet python 파일과
 마를린 펌웨어 수정 파일이 올라와있습니다.
